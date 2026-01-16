@@ -39,7 +39,7 @@ export default function Contact() {
         <div className="mt-8 flex flex-wrap gap-8">
           {/* GitHub */}
           <a
-            href="https://github.com/TU_USUARIO"
+            href="https://github.com/BryanSG3006"
             target="_blank"
             className="flex items-center gap-3 text-gray-400 hover:text-white transition"
           >
@@ -54,7 +54,7 @@ export default function Contact() {
 
           {/* LinkedIn */}
           <a
-            href="https://linkedin.com/in/TU_USUARIO"
+            href="https://www.linkedin.com/in/bryan-soto-garcia-/"
             target="_blank"
             className="flex items-center gap-3 text-gray-400 hover:text-white transition"
           >
