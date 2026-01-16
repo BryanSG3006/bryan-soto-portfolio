@@ -17,9 +17,9 @@ export default function RootLayout({
     <html lang="es">
       <body className="dark-animated-bg text-gray-100">
   <Navbar />
-  <main className="max-w-6xl mx-auto px-6">
-    {children}
-  </main>
+  <main className="max-w-6xl mx-auto px-6 pt-20">
+  {children}
+</main>
 
   <BackToTop />
 </body>
